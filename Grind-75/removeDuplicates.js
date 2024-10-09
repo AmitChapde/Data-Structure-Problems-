@@ -1,5 +1,4 @@
 let containsDuplicate = function(nums) {
-    let count=0;
     let map=new Map();
     for(let ele of nums){
         let freq=map.get(ele)|| 0;
