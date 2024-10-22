@@ -9,4 +9,4 @@ function maxSubarraySum(arr){
 
 }
 
-console.log(maxSubarraySum([5,4,-1,7,8]));//outputs 23
+console.log(maxSubarraySum([5,4,-1,7,8]));//outputs
